@@ -3,3 +3,4 @@ add new change
 add new commit
 change in stageArea
 change in WT
+change in VSCode
